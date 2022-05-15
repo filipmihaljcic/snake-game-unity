@@ -154,7 +154,7 @@ namespace Project.Scripts
                 // set random multiplier value
                 _multiplierScore = Random.Range(2, 11);
                 // multiply our score by multiplier 
-                GameData._singleton.UpdateScore(_foodScore * _multiplierScore);
+                GameData._singleton.UpdateScore(_foodScore * int(_multiplierScore));
                 // deactivate it 
                 _scoreMultiplier.SetActive(false);
             }
