@@ -4,8 +4,6 @@ Classic Snake game built with Unity Engine. Game uses simple 2D sprites for snak
 
 Some gameplay pics are bellow: 
 
-![GameMenu](https://github.com/filipmihaljcic/snake-game-unity/blob/main/images/SnakeGameMenu.png)
-
 ![GameplayFootage1](https://github.com/filipmihaljcic/snake-game-unity/blob/main/images/SnakeGameplay1.gif)
 
 ![GameplayFootage2](https://github.com/filipmihaljcic/snake-game-unity/blob/main/images/SnakeGameplay2.gif)
